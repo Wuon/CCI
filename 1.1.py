@@ -6,16 +6,7 @@
 # of characters is known, I could use a hash table to reduce the runtime significantly.
 # Rather than doing if c in store (comparing each element would give o(n^2)), using hash
 # tables properly reduce the runtime to o(n) as it iterates only once in the for loop for length s.
-
-def isUnique(s):
-    store = [None] * 26
-    for c in s:
-        if store[ord(c)-97]:
-            return False
-        else:
-            store[ord(c)-97] = True
-    return True
-
+#
 # ATTEMPT TWO
 # 
 # I realized that if the length of the string exceeds the number of allowed characters,
