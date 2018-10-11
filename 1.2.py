@@ -1,5 +1,7 @@
 # ATTEMPT ONE
 # 
+# Time Complexity: O(n)
+#
 # I am assuming that the string contains ONLY characters from the alphabet.
 # I can easily accomadate more characters by expanding the ASCII range.
 # The thought process I had while designing this algorithm was to create an integer array
@@ -12,9 +14,9 @@ def check(s1,s2):
     store = [0] * 26
     if(len(s1) != len(s2)):
         return False
-    for c in b:
+    for c in s1:
         store[ord(c)-97]+=1
-    for c in s:
+    for c in s2:
         store[ord(c)-97]-=1
         if(store[ord(c)-97] < 0):
             return False

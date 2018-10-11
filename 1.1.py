@@ -1,5 +1,7 @@
 # ATTEMPT ONE
 # 
+# Time Complexity: O(n)
+#
 # I am assuming that the string contains ONLY characters from the alphabet.
 # I can easily accomadate more characters by expanding the ASCII range.
 # The thought process I had while designing this algorithm was that since the number
@@ -9,6 +11,8 @@
 #
 # ATTEMPT TWO
 # 
+# Time Complexity: O(n)
+#
 # I realized that if the length of the string exceeds the number of allowed characters,
 # the string is guranteed to have a duplicate. By checking to see if the string exceeds the range
 # of ASCII characters we are checking for, we can instantly tell without having to do the dirty work.
