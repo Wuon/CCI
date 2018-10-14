@@ -17,7 +17,7 @@
 # the string is guranteed to have a duplicate. By checking to see if the string exceeds the range
 # of ASCII characters we are checking for, we can instantly tell without having to do the dirty work.
 
-def isUnique2(s):
+def isUnique(s):
     if(len(s) > 26):
         return False
     store = [None] * 26
