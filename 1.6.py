@@ -16,3 +16,4 @@ def stringCompression(s):
             n.extend([s[i],str(o)])
             o = 0
     return s if len(n) >= len(s) else ''.join(n)
+    
