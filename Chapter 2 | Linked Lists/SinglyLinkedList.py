@@ -1,5 +1,6 @@
 from Node import Node
 
+
 class LinkedList(object):
     def __init__(self, head=None):
         self.head = head
@@ -30,11 +31,11 @@ class LinkedList(object):
         return current
     
     def delete(self, node):
-        node.set_next( None if node.get_next().get_next() == None else node.get_next().get_next()) 
+        node.set_next(None if node.get_next().get_next() is None else node.get_next().get_next())
 
     def print(self):
         current = self.head
-        while current.get_next() != None:
+        while current.get_next() is not None:
             print(current.get_data())
             current = current.get_next()
         print(current.get_data())
