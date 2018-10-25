@@ -1,5 +1,3 @@
-from SinglyLinkedList import LinkedList
-
 # ATTEMPT ONE
 #
 # Time Complexity: O(n)
@@ -26,12 +24,3 @@ def recursive(h, k):
         return 0
     return recursive(h.get_next(), k) + 1
 
-
-s = LinkedList()
-s.insert("a")
-s.insert("b")
-s.insert("c")
-
-return_kth_to_last2(s, 1).print()
-
-print(recursive(s.head, 1))
