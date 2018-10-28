@@ -36,6 +36,6 @@ class LinkedList(object):
     def print(self):
         current = self.head
         while current.get_next() is not None:
-            print(current.get_data())
+            print(current.get_data(), end=' ')
             current = current.get_next()
         print(current.get_data())
