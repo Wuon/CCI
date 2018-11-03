@@ -5,6 +5,7 @@
 # of every stacks top. Then as we pop a specific stack, we just remove
 # 1 from all the affected stacks. The same logic is done for adding.
 
+
 class Container(object):
 
     def __init__(self):
