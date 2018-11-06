@@ -1,6 +1,6 @@
 # ATTEMPT ONE
 # 
-# Time Complexity: O(n)
+# Time Complexity: O(n) ****** Your current code is O(N^2) runtime
 #
 # For this question, I used a storage list to keep
 # track off the unique occurrences of objects and
@@ -8,6 +8,20 @@
 # see if there is a match and if there is, switch
 # the previous nodes next pointer to the next of the 
 # current.
+
+
+'''
+Use hashset - then it will be O(N) because searching through s will be constant time
+
+E.G
+
+s = set()
+if current.get_data() not in s:
+    s.add(current.get_data())
+
+
+You're Welcome - Zi
+'''
 
 
 def remove_duplicates(l):
