@@ -33,6 +33,7 @@ class LinkedList(object):
     def delete(self, node):
         node.set_next(None if node.get_next().get_next() is None else node.get_next().get_next())
 
+
     def print(self):
         current = self.head
         while current.get_next() is not None:
