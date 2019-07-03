@@ -6,7 +6,7 @@
 #         self.right = None
 
 class Solution:
-    def kthSmallest(self, root: TreeNode, k: int) -> int:
+    def kthSmallest(self, root: 'TreeNode', k: int) -> int:
         store = []
         self.helper(root, store)
         return store[k-1]
