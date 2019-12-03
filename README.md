@@ -24,6 +24,7 @@
 
 | # | Title | Score |
 | ------------- | ------------- | ----- |
+| [46](https://leetcode.com/problems/permutations/) | Permutations | 63.71% |
 | [56](https://leetcode.com/problems/merge-intervals/) | Merge Intervals | 92.41% |
 | [75](https://leetcode.com/problems/sort-colors/) | Sort Colors | 67.56% |
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List Cycle II | 88.98% |
