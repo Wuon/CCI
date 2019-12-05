@@ -20,7 +20,7 @@
 
 ### Problems
 
-**bold** - can improve
+**bold** - Review again
 
 | # | Title | Score |
 | ------------- | ------------- | ----- |
@@ -29,4 +29,5 @@
 | [56](https://leetcode.com/problems/merge-intervals/) | Merge Intervals | 92.41% |
 | [75](https://leetcode.com/problems/sort-colors/) | Sort Colors | 67.56% |
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List Cycle II | 88.98% |
-| [417](https://leetcode.com/problems/pacific-atlantic-water-flow/)| **Pacific Atlantic Water Flow** | 39.64% |
+| [417](https://leetcode.com/problems/pacific-atlantic-water-flow/)| Pacific Atlantic Water Flow | 39.64% |
+| [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | **Longest Repeating Character Replacement** | 93.89% |
