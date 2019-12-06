@@ -11,15 +11,20 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        l, r = 0, len(height) - 1
-        area = (r - l) * (height[l] if height[l] < height[r] else height[r])
-        while l != r:
-            if height[l] <= height[r]:
-                l += 1
+        area = 0
+        front = 0
+        back = len(height) - 1
+        while front < back:
+            curArea = min(height[front], height[back]) * (back - front)
+            area = max(curArea, area)
+            if height[front] > height[back]:
+                back -= 1
+            elif height[back] > height[front]:
+                front += 1
             else:
-                r -= 1
-            temp = (r - l) * (height[l] if height[l] < height[r] else height[r])
-            if temp > area:
-                area = temp
+                if height[back - 1] > height[back]:
+                    back -= 1
+                else:
+                    front += 1
         return area
 # @lc code=end
