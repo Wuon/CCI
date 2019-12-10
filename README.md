@@ -34,4 +34,5 @@
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List Cycle II | 88.98% |
 | [417](https://leetcode.com/problems/pacific-atlantic-water-flow/)| Pacific Atlantic Water Flow | 39.64% |
 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | **Longest Repeating Character Replacement** | 93.89% |
+| [939](https://leetcode.com/problems/minimum-area-rectangle/) | Minimum Area Rectangle | 52.48% |
 | [1027](https://leetcode.com/problems/longest-arithmetic-sequence/) | **Longest Arithmetic Sequence** | 69.75% |
