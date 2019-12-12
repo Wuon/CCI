@@ -17,23 +17,19 @@ class Solution(object):
         :type head: ListNode
         :rtype: ListNode
         """
-        if not head:
-            return None
-        if head.next is None:
-            return head
-        count = 1
-        dummy = ListNode(None)
-        dummy.next = head
-        temp = dummy
+        new = prev = ListNode(None)
+        new.next = head
+        first = None
         while head:
-            if count == 2:
-                count = 0
-                dummy.next.next = head.next
-                head.next = dummy.next
-                dummy.next = head
-                dummy = dummy.next.next
-                head = head.next
-            count += 1
-            head = head.next
-        return temp.next
+            if first is None:
+                first = head
+                head = first.next
+            else:
+                first.next = head.next
+                head.next = first
+                prev.next = head
+                prev = first
+                first = None
+                head = prev.next
+        return new.next
 # @lc code=end
