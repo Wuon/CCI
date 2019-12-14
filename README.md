@@ -34,7 +34,7 @@
 | [75](https://leetcode.com/problems/sort-colors/) | Sort Colors | 67.56% |
 | [117](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) | Populating Next Right Pointers in Each Node II | 96.59% |
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List Cycle II | 88.98% |
-| [207](https://leetcode.com/problems/course-schedule/) | Course Schedule | 5.04% |
+| [207](https://leetcode.com/problems/course-schedule/) | **Course Schedule** | 30.49% |
 | [417](https://leetcode.com/problems/pacific-atlantic-water-flow/)| Pacific Atlantic Water Flow | 39.64% |
 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | **Longest Repeating Character Replacement** | 93.89% |
 | [939](https://leetcode.com/problems/minimum-area-rectangle/) | Minimum Area Rectangle | 52.48% |

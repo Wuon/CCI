@@ -5,6 +5,8 @@
 #
 
 # @lc code=start
+
+from collections import defaultdict, deque
 class Solution(object):
     def canFinish(self, numCourses, prerequisites):
         """
@@ -12,20 +14,27 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: bool
         """
-        d = {}
-        for prerequisite in prerequisites:
-            stack = [prerequisite[0]]
-            while stack:
-                cur = stack.pop()
-                if cur in d:
-                    if prerequisite[1] in d[cur]:
-                        return False
-                    for edge in d[cur]:
-                        stack.append(edge)
-            if prerequisite[1] in d:
-                d[prerequisite[1]].add(prerequisite[0])
-            else:
-                d[prerequisite[1]] = set([prerequisite[0]])
-        return True
+        graph = defaultdict(list)
+        inbound = defaultdict(int)
+        q = deque()
+        counter = 0
+
+        for x, y in prerequisites:
+            graph[x].append(y)
+            inbound[y] += 1
+
+        for i in range(numCourses):
+            if inbound[i] == 0:
+                q.append(i)
+
+        while q:
+            cur = q.popleft()
+            for neighbour in graph[cur]:
+                inbound[neighbour] -= 1
+                if inbound[neighbour] == 0:
+                    q.append(neighbour)
+            counter += 1
+
+        return counter == numCourses
 
 # @lc code=end
