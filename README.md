@@ -41,3 +41,4 @@
 | [1027](https://leetcode.com/problems/longest-arithmetic-sequence/) | **Longest Arithmetic Sequence** | 69.75% |
 | [1260](https://leetcode.com/problems/shift-2d-grid/submissions/) | Shift 2D Grid | 57.21% |
 | [1261](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | Find Elements in a Contaminated Binary Tree | 60.36% |
+| [1262]() | Greatest Sum Divisible by Three | 59.35% |
