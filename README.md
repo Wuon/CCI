@@ -37,6 +37,7 @@
 | [207](https://leetcode.com/problems/course-schedule/) | **Course Schedule** | 30.49% |
 | [417](https://leetcode.com/problems/pacific-atlantic-water-flow/)| Pacific Atlantic Water Flow | 39.64% |
 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | **Longest Repeating Character Replacement** | 93.89% |
+| [621](https://leetcode.com/problems/task-scheduler/) | **Task Scheduler** | 97.29% |
 | [647](https://leetcode.com/problems/palindromic-substrings/) | Palindromic Substrings | 35.56% |
 | [939](https://leetcode.com/problems/minimum-area-rectangle/) | Minimum Area Rectangle | 52.48% |
 | [1027](https://leetcode.com/problems/longest-arithmetic-sequence/) | **Longest Arithmetic Sequence** | 69.75% |
