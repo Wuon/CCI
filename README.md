@@ -45,3 +45,4 @@
 | [1260](https://leetcode.com/problems/shift-2d-grid/submissions/) | Shift 2D Grid | 57.21% |
 | [1261](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | Find Elements in a Contaminated Binary Tree | 60.36% |
 | [1262](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | Greatest Sum Divisible by Three | 59.35% |
+| [1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Find Numbers with Even Number of Digits | 39.20% |
