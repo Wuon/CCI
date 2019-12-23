@@ -42,6 +42,9 @@
 | [863](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | All Nodes Distance K in Binary Tree | 91.22% |
 | [939](https://leetcode.com/problems/minimum-area-rectangle/) | Minimum Area Rectangle | 52.48% |
 | [1027](https://leetcode.com/problems/longest-arithmetic-sequence/) | **Longest Arithmetic Sequence** | 69.75% |
+| [1252](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | Cells with Odd Values in a Matrix | 40.65% |
+| [1253](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/) | Reconstruct a 2-Row Binary Matrix | 96.37% |
+| [1254](https://leetcode.com/problems/number-of-closed-islands/) | Number of Closed Islands | 28.36% |
 | [1260](https://leetcode.com/problems/shift-2d-grid/submissions/) | Shift 2D Grid | 57.21% |
 | [1261](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | Find Elements in a Contaminated Binary Tree | 60.36% |
 | [1262](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | Greatest Sum Divisible by Three | 59.35% |
