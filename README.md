@@ -14,6 +14,7 @@
 
 | # | Score | Ranking | ELO |
 | -------------------------------------------------------- | ----- | ----------- | ---- |
+| [w168](https://leetcode.com/contest/weekly-contest-168)  | 3/20  | 2599 / 5525 | 1772 |
 | [w163](https://leetcode.com/contest/weekly-contest-163)  | 7/20  | 1855 / 5873 | 1838 |
 | [b13](https://leetcode.com/contest/biweekly-contest-13)  | 21/21 | 168 / 2771  | 1869 |
 | [w162](https://leetcode.com/contest/weekly-contest-162)  | 7/18  | 1951 / 6058 | 1776 |
@@ -50,3 +51,4 @@
 | [1262](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | Greatest Sum Divisible by Three | 59.35% |
 | [1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Find Numbers with Even Number of Digits | 39.20% |
 | [1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | Divide Array in Sets of K Consecutive Numbers | 47.11% |
+| [1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Replace Elements with Greatest Element on Right Side | 99.73% |
