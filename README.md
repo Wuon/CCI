@@ -52,3 +52,4 @@
 | [1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Find Numbers with Even Number of Digits | 39.20% |
 | [1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | Divide Array in Sets of K Consecutive Numbers | 47.11% |
 | [1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Replace Elements with Greatest Element on Right Side | 99.73% |
+| [1300](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Sum of Mutated Array Closest to Target | 98.38% |
