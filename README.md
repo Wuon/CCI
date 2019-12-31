@@ -14,6 +14,7 @@
 
 | # | Score | Ranking | ELO |
 | -------------------------------------------------------- | ----- | ----------- | ---- |
+| [b16](https://leetcode.com/contest/biweekly-contest-16)  | 12/19 | 688 / 2788  | 1784 |
 | [w168](https://leetcode.com/contest/weekly-contest-168)  | 3/20  | 2599 / 5525 | 1772 |
 | [w163](https://leetcode.com/contest/weekly-contest-163)  | 7/20  | 1855 / 5873 | 1838 |
 | [b13](https://leetcode.com/contest/biweekly-contest-13)  | 21/21 | 168 / 2771  | 1869 |
@@ -53,3 +54,4 @@
 | [1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | Divide Array in Sets of K Consecutive Numbers | 47.11% |
 | [1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Replace Elements with Greatest Element on Right Side | 99.73% |
 | [1300](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Sum of Mutated Array Closest to Target | 98.38% |
+| [1302](https://leetcode.com/problems/deepest-leaves-sum/) | Deepest Leaves Sum | 99.08% |
