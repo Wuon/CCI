@@ -55,3 +55,4 @@
 | [1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Replace Elements with Greatest Element on Right Side | 99.73% |
 | [1300](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Sum of Mutated Array Closest to Target | 98.38% |
 | [1302](https://leetcode.com/problems/deepest-leaves-sum/) | Deepest Leaves Sum | 99.08% |
+| [1306](https://leetcode.com/problems/jump-game-iii/) | Jump Game III | 30.04% |
