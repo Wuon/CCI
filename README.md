@@ -56,3 +56,5 @@
 | [1300](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Sum of Mutated Array Closest to Target | 98.38% |
 | [1302](https://leetcode.com/problems/deepest-leaves-sum/) | Deepest Leaves Sum | 99.08% |
 | [1306](https://leetcode.com/problems/jump-game-iii/) | Jump Game III | 30.04% |
+| [1309](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | Decrypt String from Alphabet to Integer Mapping | 50.00% |
+| [1310](https://leetcode.com/problems/xor-queries-of-a-subarray/) | XOR Queries of a Subarray | 60.00% |
