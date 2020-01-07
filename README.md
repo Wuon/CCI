@@ -2,6 +2,7 @@
 
 > This repository is dedicated for self-improvement.
 
+- [Grokking the Coding Interview](https://github.com/Wuon/notebook/tree/master/Grokking%20the%20Coding%20Interview)
 - [Cracking the Coding Interview](https://github.com/Wuon/daily/tree/master/Cracking%20the%20Coding%20Interview)
 - [Project Euler](https://github.com/Wuon/daily/tree/master/Project%20Euler)
 - [Leetcode](https://github.com/Wuon/daily/tree/master/Leetcode)
@@ -14,6 +15,7 @@
 
 | # | Score | Ranking | ELO |
 | -------------------------------------------------------- | ----- | ----------- | ---- |
+| [w170](https://leetcode.com/contest/weekly-contest-170)  | 8/20  | 3077 / 6833 | 1744
 | [b16](https://leetcode.com/contest/biweekly-contest-16)  | 12/19 | 688 / 2788  | 1784 |
 | [w168](https://leetcode.com/contest/weekly-contest-168)  | 3/20  | 2599 / 5525 | 1772 |
 | [w163](https://leetcode.com/contest/weekly-contest-163)  | 7/20  | 1855 / 5873 | 1838 |
