@@ -5,14 +5,14 @@ const smallest_subarray_with_given_sum = function(s, arr) {
     smallest = Infinity;
   while (end <= arr.length) {
     if (sum >= s) {
-      smallest = Math.min(smallest, end - start)
+      smallest = Math.min(smallest, end - start);
     }
     if (sum < s) {
-      sum += arr[end]
-      end += 1
+      sum += arr[end];
+      end += 1;
     } else {
-      sum -= arr[start]
-      start += 1
+      sum -= arr[start];
+      start += 1;
     }
   }
   return smallest === Infinity ? -1 : smallest;
