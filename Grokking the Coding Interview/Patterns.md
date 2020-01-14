@@ -1,5 +1,11 @@
 # Patterns
 
+Table of contents
+
+[Sliding Window](##sliding-window)
+
+[Topological Sort](##topological-sort)
+
 ## Sliding Window
 
 Typically, this pattern can be identified when an index can move forwards or backwards
