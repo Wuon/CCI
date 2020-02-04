@@ -61,3 +61,4 @@
 | [1309](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | Decrypt String from Alphabet to Integer Mapping | 50.00% |
 | [1310](https://leetcode.com/problems/xor-queries-of-a-subarray/) | XOR Queries of a Subarray | 60.00% |
 | [1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | The K Weakest Rows in a Matrix | 52.99% |
+| [1338](https://leetcode.com/problems/reduce-array-size-to-the-half/) | Reduce Array Size to The Half | 56.46% |
