@@ -62,3 +62,5 @@
 | [1310](https://leetcode.com/problems/xor-queries-of-a-subarray/) | XOR Queries of a Subarray | 60.00% |
 | [1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | The K Weakest Rows in a Matrix | 52.99% |
 | [1338](https://leetcode.com/problems/reduce-array-size-to-the-half/) | Reduce Array Size to The Half | 56.46% |
+| [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | 61.65% |
+| [1343](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | 68.42% |
