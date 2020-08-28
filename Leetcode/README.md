@@ -17,15 +17,15 @@
 
 **bold** - Review again
 
-| # | Title | Score |
-| ------------- | ------------- | ----- |
+| # | Title | Score | Previous Time | Best Time |
+| - | - | - | - | - |
 | [11](https://leetcode.com/problems/container-with-most-water/) | Container With Most Water | 31.66% |
 | [17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Letter Combinations of a Phone Number | 46.55% |
 | [24](https://leetcode.com/problems/swap-nodes-in-pairs/) | Swap Nodes in Pairs | 80.28% |
 | [46](https://leetcode.com/problems/permutations/) | Permutations | 63.71% |
 | [48](https://leetcode.com/problems/rotate-image/) | Rotate Image | 48.13% |
 | [49](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | 25.26% |
-| [56](https://leetcode.com/problems/merge-intervals/) | Merge Intervals | 92.41% |
+| [56](https://leetcode.com/problems/merge-intervals/) | Merge Intervals | 92.41% | 8m17s | 8m17s
 | [75](https://leetcode.com/problems/sort-colors/) | Sort Colors | 67.56% |
 | [117](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) | Populating Next Right Pointers in Each Node II | 96.59% |
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List Cycle II | 88.98% |
