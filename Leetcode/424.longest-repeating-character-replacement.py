@@ -5,6 +5,8 @@
 #
 
 # @lc code=start
+from collections import deque
+
 class Solution(object):
     def characterReplacement(self, s, k):
         """
@@ -27,5 +29,21 @@ class Solution(object):
                 front += 1
         return len(s) - front
 
+    # Solution using queue
+    def characterReplacement2(self, s: str, k: int) -> int:
+        d = {}
+        q = deque()
+        largest = 0
+        for character in s:
+            q.append(character)
+            if character not in d:
+                d[character] = 0
+            d[character] += 1
+            shouldChange = len(q) - max(d.values())
+            while shouldChange > k:
+                d[q.popleft()] -= 1
+                shouldChange = len(q) - max(d.values())
+            largest = max(len(q), largest)
+        return largest
 
 # @lc code=end
