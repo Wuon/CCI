@@ -19,7 +19,7 @@
 
 | # | Title | Score | Previous Time | Best Time |
 | - | - | - | - | - |
-| [3]() | Longest Substring Without Repeating Characters | 88.69% | 4m58s | 4m58s
+| [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | 88.69% | 4m58s | 4m58s
 | [11](https://leetcode.com/problems/container-with-most-water/) | Container With Most Water | 31.66% |
 | [17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Letter Combinations of a Phone Number | 46.55% |
 | [24](https://leetcode.com/problems/swap-nodes-in-pairs/) | Swap Nodes in Pairs | 80.28% |
@@ -35,6 +35,7 @@
 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | Longest Repeating Character Replacement | 93.89% | 27m5s | 27m5s |
 | [621](https://leetcode.com/problems/task-scheduler/) | **Task Scheduler** | 97.29% |
 | [647](https://leetcode.com/problems/palindromic-substrings/) | Palindromic Substrings | 35.56% |
+| [838](https://leetcode.com/problems/push-dominoes/) | Push Dominoes | 96.66% | 23m38s | 23m38s |
 | [863](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | All Nodes Distance K in Binary Tree | 91.22% |
 | [939](https://leetcode.com/problems/minimum-area-rectangle/) | Minimum Area Rectangle | 52.48% |
 | [1027](https://leetcode.com/problems/longest-arithmetic-sequence/) | **Longest Arithmetic Sequence** | 69.75% |
