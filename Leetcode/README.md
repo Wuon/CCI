@@ -58,3 +58,4 @@
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | 61.65% |
 | [1343](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | 68.42% |
 | [1344](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Angle Between Hands of a Clock | 56.77% |
+| [1513](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | Number of Substrings With Only 1s | 35.56% | 11m44s | 11m44s
